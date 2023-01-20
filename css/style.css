@@ -1,0 +1,10 @@
+body  {
+    background-color: darkolivegreen;
+}
+
+p, h2 {
+    font-weight: bolder;
+}
+p {
+    text-align: center;
+}
